@@ -23,3 +23,14 @@ h2{
 .HTitleColor{
     color: #FA804C;
 }
+
+
+.ImageBG{
+    background-color: #f3f2f2;
+    width: 90%;
+    border-radius: 15px;
+    margin: auto;
+}
+.PriceStyle{
+    color: #FA804C;
+}
