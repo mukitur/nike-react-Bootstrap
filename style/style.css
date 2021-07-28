@@ -9,7 +9,7 @@ h2{
 
 .btn-primary-syyle{
     background-color: #3333cc;
-    width: 140px;
+    width: 135px;
     height: 60px;
     border-radius: 10px;
 }
@@ -30,6 +30,7 @@ h2{
     width: 90%;
     border-radius: 15px;
     margin: auto;
+    height: auto;
 }
 .PriceStyle{
     color: #FA804C;
